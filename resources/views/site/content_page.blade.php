@@ -17,7 +17,7 @@
 
                 </div>
 
-                {!! link_to(route('home'),'Back') !!} 
+                {!! link_to(route('home'),'Back') !!}
 
             </div>
         </div>
