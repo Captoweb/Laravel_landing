@@ -16,9 +16,9 @@
 </head>
 <body>
 
-
 <header id="header_wrapper">
     @yield('header')
+
 
     @if (count($errors) > 0)
         <div class="alert alert-danger">
@@ -28,4 +28,14 @@
                 @endforeach
             </ul>
         </div>
-@endif
+    @endif
+
+    @if (session('status'))
+        <div class="alert alert-success">
+            {{ session('status') }}
+        </div>
+    @endif
+</header>
+@yield('content')
+</body>
+</html>
