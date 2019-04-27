@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b2df8c2f-5438-4217-8dfe-eb15391daef0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/Http/Controllers/PagesEditController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/PagesEditController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/admin/content_pages.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/admin/content_pages.blade.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,8 +19,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/resources/views/admin/content_pages.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="630">
-              <caret line="30" selection-start-line="29" selection-start-column="24" selection-end-line="30" />
+            <state relative-caret-position="52">
+              <caret line="31" column="48" selection-start-line="31" selection-start-column="48" selection-end-line="31" selection-end-column="48" />
             </state>
           </provider>
         </entry>
@@ -37,8 +37,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/Http/Controllers/PagesEditController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="65">
-              <caret line="47" column="80" selection-start-line="47" selection-start-column="80" selection-end-line="47" selection-end-column="80" />
+            <state relative-caret-position="44">
+              <caret line="20" column="70" selection-start-line="20" selection-start-column="70" selection-end-line="20" selection-end-column="70" />
               <folding>
                 <element signature="e#40#68#0#PHP" expanded="true" />
               </folding>
@@ -58,7 +58,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/resources/views/admin/content_pages_edit.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1029">
+            <state relative-caret-position="107">
               <caret line="49" column="12" selection-start-line="49" selection-start-column="12" selection-end-line="49" selection-end-column="12" />
             </state>
           </provider>
@@ -140,7 +140,6 @@
         <option value="$PROJECT_DIR$/app/Http/Controllers/PagesController.php" />
         <option value="$PROJECT_DIR$/resources/views/admin/pages.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/admin/index.blade.php" />
-        <option value="$PROJECT_DIR$/resources/views/admin/content_pages.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/admin/pages_add.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/admin/content_pages_add.blade.php" />
         <option value="$PROJECT_DIR$/app/Page.php" />
@@ -148,6 +147,7 @@
         <option value="$PROJECT_DIR$/app/Http/Controllers/PagesAddController.php" />
         <option value="$PROJECT_DIR$/resources/views/admin/content_pages_edit.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/admin/pages_edit.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/admin/content_pages.blade.php" />
         <option value="$PROJECT_DIR$/app/Http/Controllers/PagesEditController.php" />
       </list>
     </option>
@@ -214,11 +214,11 @@
       <path value="$PROJECT_DIR$/vendor/jeremeamia/SuperClosure" />
     </include_path>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="103" />
-    <option name="y" value="58" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="106" />
+    <option name="y" value="178" />
     <option name="width" value="1673" />
-    <option name="height" value="533" />
+    <option name="height" value="461" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -332,15 +332,15 @@
       <workItem from="1555776561081" duration="9708000" />
       <workItem from="1556277771194" duration="5936000" />
       <workItem from="1556298191889" duration="7565000" />
-      <workItem from="1556363999246" duration="2045000" />
+      <workItem from="1556363999246" duration="3529000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="67528000" />
+    <option name="totallyTimeSpent" value="69012000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="69" y="39" width="1115" height="355" extended-state="0" />
+    <frame x="71" y="119" width="1115" height="307" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.036018956" />
@@ -543,20 +543,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/admin/content_pages.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="630">
-          <caret line="30" selection-start-line="29" selection-start-column="24" selection-end-line="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/admin/content_pages_edit.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1029">
-          <caret line="49" column="12" selection-start-line="49" selection-start-column="12" selection-end-line="49" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/resources/views/site/content.blade.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="630">
@@ -606,10 +592,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/admin/content_pages_edit.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="107">
+          <caret line="49" column="12" selection-start-line="49" selection-start-column="12" selection-end-line="49" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/admin/content_pages.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="31" column="48" selection-start-line="31" selection-start-column="48" selection-end-line="31" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/Http/Controllers/PagesEditController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="65">
-          <caret line="47" column="80" selection-start-line="47" selection-start-column="80" selection-end-line="47" selection-end-column="80" />
+        <state relative-caret-position="44">
+          <caret line="20" column="70" selection-start-line="20" selection-start-column="70" selection-end-line="20" selection-end-column="70" />
           <folding>
             <element signature="e#40#68#0#PHP" expanded="true" />
           </folding>
